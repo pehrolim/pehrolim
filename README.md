@@ -1,14 +1,15 @@
 ### 👋 Olá, me chamo Pedro Henrique. 
 
+- 🔭 Possuo Skills em: 
+
+
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
 <!--
 **pehrolim/pehrolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 Possuo Skills em: 
 
-
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
 Here are some ideas to get you started:
