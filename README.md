@@ -1,7 +1,6 @@
 ### 👋 Olá, me chamo Pedro Henrique. 
 
-Atualmente cursando especialização em Desenvolvimento Web
-
+Sou graduado em Gestão da Tecnologia da Informação e Atualmente curso a especialização em Desenvolvimento Web.
 
 
 ## Stacks Principais
